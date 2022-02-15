@@ -9,7 +9,7 @@ This repository contains the code for all the labs in the Parallel Programming C
  * CUDA version: 11
 
 #### Introduction
-The lab involved writing a program to check if a given number is prime. The program was to be run on GPU and CPU.As a result, execution times on the CPU and GPU had to be compared. 
+The lab involved writing a program to check if a given number is prime. The program was to be run on GPU and CPU. As a result, execution times on the CPU and GPU had to be compared. 
 #### Results
  - The GPU needs approximately 140 [us] for each number to allocate memory and transfer data to the device
  - For 34-bit numbers and above, the GPU is faster than the CPU 
