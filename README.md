@@ -45,8 +45,9 @@ Implemented algorithms:
  * CUDA version: 11
 
 #### Introduction
-The lab involved writing a program that performed simple matrix calculations. Matrices A and B have size NxN and their values are randomized
-Calculate the value of the expression:
+The lab involved writing a program that performed simple matrix calculations. Matrices A and B have size NxN and their values are randomized.
+
+Task was to calculate the value of the expression:
 
 ![image](https://user-images.githubusercontent.com/61761700/154143596-99e152f0-34d2-49ce-984f-ac2862c67e6b.png)
 
@@ -57,5 +58,10 @@ Implemented operations:
 * matrix multiplication using shared memory
 * matrix multiplication by a scalar
 
-
 #### Results
+* Matrix multiplication is the longest GPU operation
+* For the largest tested 1792 x 1792 matrix, the CPU computation time is 27.9 seconds while the GPU the calculation takes only 0.26 second
+ 
+
+> sults for two data types
+
