@@ -3,12 +3,12 @@ This repository contains the code for all the labs in the Parallel Programming C
 
 ## 1. laboratory - prime numbers
 
-####Environment
+#### Environment
 
 
-####Introduction
+#### Introduction
 
-####Results
+#### Results
 
 ## 2. laboratory - numerical integration and bitonic sort
 
