@@ -62,6 +62,7 @@ Implemented operations:
 * Matrix multiplication is the longest GPU operation
 * For the largest tested 1792 x 1792 matrix, the CPU computation time is 27.9 seconds while the GPU the calculation takes only 0.26 second
  
+![image](https://user-images.githubusercontent.com/61761700/154145099-c494a1ec-62a8-403b-8cad-a56e6d5e8c8a.png)
 
-> sults for two data types
+> results for two data types
 
