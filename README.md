@@ -26,7 +26,7 @@ The lab involved writing a program to check if a given number is prime. The prog
  * CUDA version: 11
 
 #### Introduction
-The lab required you to write a program that computes an integral under a field created from a random set of points. Before calculation, set of points must have been sorted ascending. 
+The lab required you to write a program that computes an integral under a field created from a random set of points. Before calculation, set of points must have been sorted ascending. CPU and GPU operation times had to be compared.
 Implemented algorithms:
  * Numerical Integration - Trapezoidal Rule
  * Sorting on GPU - Bitonic Sort
@@ -45,5 +45,17 @@ Implemented algorithms:
  * CUDA version: 11
 
 #### Introduction
+The lab involved writing a program that performed simple matrix calculations. Matrices A and B have size NxN and their values are randomized
+Calculate the value of the expression:
+
+![image](https://user-images.githubusercontent.com/61761700/154143596-99e152f0-34d2-49ce-984f-ac2862c67e6b.png)
+
+Implemented operations:
+* matrix subtraction
+* matrix addition
+* matrix transposition
+* matrix multiplication using shared memory
+* matrix multiplication by a scalar
+
 
 #### Results
