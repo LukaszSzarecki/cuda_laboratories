@@ -22,12 +22,20 @@ The lab involved writing a program to check if a given number is prime. The prog
 
 #### Environment
  * Operating System: Windows 10 Home
- * GPU: NVIDIA GTX 660
+ * GPU: NVIDIA GeForce GT635M
  * CUDA version: 11
 
 #### Introduction
+The lab required you to write a program that computes an integral under a field created from a random set of points. Before calculation, set of points must have been sorted ascending. 
+Implemented algorithms:
+ * Numerical Integration - Trapezoidal Rule
+ * Sorting on GPU - Bitonic Sort
+ * Sorting on CPU - QuickSort
 
 #### Results
+
+![image](https://user-images.githubusercontent.com/61761700/154142928-1c8d8ceb-4ebb-4baf-9a7e-4a3723a1bf6b.png)
+
 
 ## 3. laboratory - matrix operations
 
